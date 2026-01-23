@@ -2,7 +2,7 @@ class Itsyhome < Formula
   desc "CLI tool to control HomeKit devices via Itsyhome"
   homepage "https://github.com/nickustinov/itsyhome-cli"
   url "https://github.com/nickustinov/itsyhome-cli/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "daf86bdfd3508541db278d95a7c350e6c4183699c0bf12c3d088545b70381efa"
+  sha256 "ea6aeb33696e34a47b5f1f90b7b00482d6d80872066072855c9fb434637743b9"
   license "MIT"
 
   depends_on "go" => :build

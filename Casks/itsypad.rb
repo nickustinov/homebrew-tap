@@ -1,6 +1,6 @@
 cask "itsypad" do
-  version "1.4.4"
-  sha256 "600335b28f3fa0c178b5fe44fdc015d96c4c16cc3f8854bfbb0e84d7d7970f76"
+  version "1.4.5"
+  sha256 "9b67dd3d2c9890a4185b753802b2f9bf5308cbd1ef40c94330c48889d606eba5"
 
   url "https://github.com/nickustinov/itsypad-macos/releases/download/v#{version}/itsypad-#{version}.dmg"
   name "Itsypad"

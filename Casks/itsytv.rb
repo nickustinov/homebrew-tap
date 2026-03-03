@@ -4,7 +4,7 @@ cask "itsytv" do
 
   url "https://github.com/nickustinov/itsytv-macos/releases/download/v#{version}/Itsytv-#{version}.dmg"
   name "itsytv"
-  desc "Control Apple TV from the macOS menu bar"
+  desc "Control Apple TV from the menu bar"
   homepage "https://github.com/nickustinov/itsytv-macos"
 
   depends_on macos: ">= :sonoma"

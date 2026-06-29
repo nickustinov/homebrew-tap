@@ -7,7 +7,7 @@ cask "itsytv" do
   desc "Control Apple TV from the menu bar"
   homepage "https://github.com/nickustinov/itsytv-macos"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Itsytv.app"
 end
